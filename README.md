@@ -55,7 +55,8 @@ Publishing ensures that resources are properly packaged and distributed. The fol
 To install Teachkit, make sure you have Python 3.8 or higher installed on your system. Then, clone the repository and install the dependencies:  
 
 ```bash
-git clone https://github.com/<your-username>/teachkit.git
+git clone https://github.com/sotogarcia/teachkit.git
 cd teachkit
 pip install -r requirements.txt
+```
 
