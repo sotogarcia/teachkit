@@ -1,0 +1,3 @@
+pathvalidate>=3.0.0
+pyreadline>=2.1
+humanfriendly>=10.0
